@@ -1,19 +1,6 @@
 #  Website using CSS Framework
 
-Designed the front end of a website using Bootstrap(CSS framework). Bootstrap is the most popular HTML, CSS, and JavaScript framework for developing responsive, mobile-first websites.
-
-Technologies Used
-
-This project utilizes the following technologies:
-
-- HTML5
-- CSS3
-- JavaScript
-- **Bootstrap**
-
-==> Bootstrap: 
-
-Bootstrap is a free and open-source CSS framework directed at responsive, mobile-first front-end web development. It contains HTML, CSS, and optionally JavaScript-based design templates for typography, forms, buttons, navigation, and other interface components. Bootstrap aims to ease the development of dynamic, mobile-friendly websites and web applications.
+Designed the front end of a website using Bootstrap(CSS framework). Bootstrap is the most popular HTML, CSS, and JavaScript framework for developing responsive, mobile-first websites. Bootstrap is a free and open-source CSS framework directed at responsive, mobile-first front-end web development. It contains HTML, CSS, and optionally JavaScript-based design templates for typography, forms, buttons, navigation, and other interface components. Bootstrap aims to ease the development of dynamic, mobile-friendly websites and web applications.
 
 ==> Key Features of Bootstrap:
 
